@@ -10,8 +10,9 @@ const Contact = () => {
         </svg>
       ),
       title: 'Phone',
-      content: '+91 9701555435',
-      link: 'tel:+919701555435'
+      content: '+91 7207711919',
+      link: 'tel:+917207711919'
+
     },
     {
       icon: (
@@ -20,8 +21,8 @@ const Contact = () => {
         </svg>
       ),
       title: 'Email',
-      content: 'maanmanuchulur@gmail.com',
-      link: 'mailto:maanmanuchulur@gmail.com'
+      content: 'vintogrow2@gmail.com',
+      link: 'vintogrow2@gmail.com'
     },
     {
       icon: (
@@ -42,7 +43,8 @@ const Contact = () => {
       ),
       title: 'WhatsApp',
       content: 'Chat with us on WhatsApp',
-      link: 'https://wa.me/919701555435'
+      link: 'https://wa.me/917207711919
+'
     }
   ];
 
