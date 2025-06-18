@@ -21,7 +21,7 @@ const testRoutes = require('./routes/test');
 // CORS configuration
 const corsOptions = {
   origin: [
-    'http://localhost:3000',
+    'https://vin2grow1admin.onrender.com',
     'https://vin2grow1frontend.onrender.com'
   ],
   credentials: true,
